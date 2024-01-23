@@ -1,0 +1,15 @@
+<!-- This is a comment and it should be ignored -->    
+<!-- this is another - comment &lg; and <ignored> -->
+
+<root title="&#78;&#73;&#67;&#69; &#x611b;it &gt;😜&lt; yippy" word="yo mama!🤔" >
+   <flat_element say_what="yammy"/>
+   <elmo5duplicate value="what" tow="kickit" >
+      <nested_한국인>
+         <!-- This is a comment and it should be ignored -->
+      </nested_한국인>
+   </elmo5duplicate>
+   <elmo5duplicate>some 🤔 &quot;random&quot; text <b>markup not <i>supported</i> :(</b> text</elmo5duplicate>
+🤔</root>
+
+<!-- This is a comment and it should be ignored -->
+
